@@ -1,0 +1,11 @@
+useing a version control software is good becasuse I can see the lines that were changed as well as those added or removed. It was like seeing them in plain sight.
+
+One can keep stable working versions of code and improve on a particular portion or aspect.
+
+Pros of a manual commit are that you will remember what each file is associated with and how it fits in with the whole. Cons is you may forget to commit.
+
+Git was created with code in mind therefore, it knows that coding endeavours are usually spread over multiple files. Google docs wasnt.
+
+git log gives a history of the commits that have been done.. use 'd' or down arrow to scroll down. git diff uses the id of two different commits to see what has been added or removed
+
+knowing you can revert to old changes using git checkout makes it easier to make bold changes in a document or code.

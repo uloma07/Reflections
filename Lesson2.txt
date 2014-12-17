@@ -1,0 +1,1 @@
+Git init should be done to tell git that the contents of a directory should be tracked. When you run git init, it drops a hidden git folder that is used to manage the files in the repository.
