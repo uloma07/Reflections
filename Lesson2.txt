@@ -1,1 +1,3 @@
 Git init should be done to tell git that the contents of a directory should be tracked. When you run git init, it drops a hidden git folder that is used to manage the files in the repository.
+
+The staging area is a part of git while the working directory is part of the file system. the repository is a representation of the file system to git.
