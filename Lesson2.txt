@@ -9,3 +9,5 @@ Creating a branch can help me test a different concept from one that is already 
 Branch diagrams help me know what exactly is being done... It tells me the parent of each branch and it helps me prevent unreachable branches.
 
 Merging two branches together will help us have a branch which has the changes made form the two individual branches.
+
+Gits automatic merging is good as it does not leave out any difference in the two commits. it may not be good when the document is complex and it needs a lot of human intervention to ensure that the resulting docment is desired
