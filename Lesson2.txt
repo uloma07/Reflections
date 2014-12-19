@@ -7,3 +7,5 @@ The staging area can be used to compare the versions to be committed, and also t
 Creating a branch can help me test a different concept from one that is already working and stable. I can use it to test new algorithms and stuff
 
 Branch diagrams help me know what exactly is being done... It tells me the parent of each branch and it helps me prevent unreachable branches.
+
+Merging two branches together will help us have a branch which has the changes made form the two individual branches.
